@@ -15,11 +15,10 @@ This project focuses on forecasting monthly temperatures for Germany using LSTM-
 ## Project Structure
 
 ```
-📂 LSTM.temp_All_05.ipynb   # Jupyter Notebook with full implementation
-📂 data/                    # Directory for climate datasets
-📂 plots/                   # Visualizations of temperature trends
-📂 models/                  # Saved trained LSTM models
-📜 README.md                # Project documentation
+📂 data/                    # Add files via upload
+📜 LSTM_temp_forcast.ipynb  # Update LSTM_temp_forcast.ipynb
+📜 Presentation01.pptx       # Add files via upload
+📜 README.md                # Update README.md
 ```
 
 ## How It Works
